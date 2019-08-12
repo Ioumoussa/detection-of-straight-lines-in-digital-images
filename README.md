@@ -1,0 +1,1 @@
+# detection-of-straight-lines-in-digital-images
